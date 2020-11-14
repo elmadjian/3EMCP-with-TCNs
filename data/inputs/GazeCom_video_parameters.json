@@ -1,0 +1,168 @@
+{
+    "video_names": [
+        "beach",
+        "breite_strasse",
+        "bridge_1",
+        "bridge_2",
+        "bumblebee",
+        "doves",
+        "ducks_boat",
+        "ducks_children",
+        "golf",
+        "holsten_gate",
+        "koenigstrasse",
+        "puppies",
+        "roundabout",
+        "sea",
+        "st_petri_gate",
+        "st_petri_market",
+        "st_petri_mcdonalds",
+        "street"
+    ],
+    "video_parameters": [
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//beach.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//breite_strasse.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//bridge_1.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//bridge_2.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//bumblebee.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//doves.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//ducks_boat.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//ducks_children.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//golf.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//holsten_gate.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//koenigstrasse.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 573,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//puppies.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//roundabout.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//sea.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//st_petri_gate.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//st_petri_market.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//st_petri_mcdonalds.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        },
+        {
+            "filename": "/mnt/syno8/data/Pursuit/GazeCom/videos//street.m2t",
+            "fourcc": 2,
+            "fps": 29.97002997002997,
+            "frame_count": 600,
+            "height": 720,
+            "width": 1280
+        }
+    ]
+}
