@@ -1,3 +1,9 @@
+#------------------------------------------------------------------------------------------------
+# Most of the here was provided by Startsev et al.
+# The original source code is available at https://github.com/MikhailStartsev/deep_em_classifier
+# This is an adapted version to support temporal convolutional networks
+#------------------------------------------------------------------------------------------------
+
 #!/usr/bin/env python
 # coding: utf-8
 from numpy.random import seed

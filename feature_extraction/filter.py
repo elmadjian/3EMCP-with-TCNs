@@ -2,7 +2,6 @@ import os
 import re
 import sys
 import numpy as np
-import matplotlib.pyplot as plt
 
 from arff_helper import ArffHelper
 
@@ -47,7 +46,6 @@ class OutputFilter():
                 to_change.append(i)
             if val != last_ev:
                 if last_ev != "NONE":
-                    #print('i:', i+26, 'val:', val, 'last:', last_ev, 'duration:', duration, 'to_change:', to_change)
                     preserve_changes = False
                     if duration < 4:
                         preserve_changes = True

@@ -16,9 +16,7 @@ NUM_DENSE = 0
 NUM_BLSTM = 2
 MODEL_FOLDER = "models/tcn_257_6/"
 MODEL = "tcn_model.py"
-#MODEL = "bigru_model_inverted.py"
-#MODEL = "blstm_model_attention.py"
-OUT_FOLDER = "outputs_tcn_257_6"
+OUT_FOLDER = "outputs/outputs_tcn_257_6"
 SPTOOL = "./sp_tool"
 
 

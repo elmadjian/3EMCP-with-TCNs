@@ -1,6 +1,6 @@
 import sys, os
 
-OUT_FOLDER = "outputs_tcn_385_7_plus_filtered"
+OUT_FOLDER = "outputs/outputs_tcn_385_7_plus_filtered"
 GT_FOLDER = "data/inputs/GazeCom_ground_truth"
 SPTOOL = "./sp_tool"
 

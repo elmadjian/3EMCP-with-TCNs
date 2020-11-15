@@ -3,8 +3,6 @@ import math
 
 import numpy as np
 import sys
-sys.path.insert(1, '/home/cadu/GIT/DeepGazePatterns/sp_tool')
-sys.path.insert(2, '/home/cadu/Nextcloud/Projects/DeepGazePatterns/sp_tool')
 
 import util
 from arff_helper import ArffHelper

@@ -3,9 +3,6 @@
 import sys
 import warnings
 
-sys.path.insert(1, '/home/cadu/GIT/DeepGazePatterns/sp_tool')
-sys.path.insert(2, '/home/cadu/Nextcloud/Projects/DeepGazePatterns/sp_tool')
-
 import data_loaders
 from saccade_detector import SaccadeDetector
 from blink_detector import BlinkDetector

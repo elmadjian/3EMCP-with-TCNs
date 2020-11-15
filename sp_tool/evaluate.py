@@ -7,8 +7,6 @@ from collections import Counter, namedtuple, defaultdict
 import sys
 import warnings
 import copy
-sys.path.insert(1, '/home/cadu/GIT/DeepGazePatterns/sp_tool')
-sys.path.insert(2, '/home/cadu/Nextcloud/Projects/DeepGazePatterns/sp_tool')
 
 from sklearn.metrics import cohen_kappa_score
 import Levenshtein

@@ -4,7 +4,6 @@ import numpy as np
 import abc
 import copy
 import sys
-sys.path.insert(1, '/home/cadu/GIT/DeepGazePatterns/sp_tool')
 
 from arff_helper import ArffHelper
 from recording_processor import RecordingProcessor
