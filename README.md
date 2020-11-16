@@ -12,7 +12,7 @@ This repository provides access to the codebase, models, and evaluation results 
 
 In order to train a new TCN-based model or evaluate the previously trained models, you need first to download some large compacted files containing all the necessary data and extract them according to the following instructions:
 * Download [GazeCom_new_features.zip](https://drive.google.com/file/d/1mQRa0trH78zEC3lhmGt4qpyHoENY4-9E/view?usp=sharing), which contains the GazeCom pre-computed features (with extra scales and features), and extract it to ``data/inputs/``
-* Download [models.zip](https://drive.google.com/file/d/1gsNWl6FpZMCM46ovlQNdQz8ZAzIVocUU/view?usp=sharing), a compressed file with all trained models, and extract it to the repository root folder
+* Download [models.zip](https://drive.google.com/file/d/1AUdZgpuOo1963PRtanmndGCcBVmJA3K8/view?usp=sharing), a compressed file with all trained models, and extract it to the repository root folder
 * Download [outputs.zip](https://drive.google.com/file/d/1tC8Qj2Me8y6sgzAXrVQSlH210Ti7aBkg/view?usp=sharing), a file with the generated outputs of the trained models for evaluation, and extract it to the repository root folder
 
 
