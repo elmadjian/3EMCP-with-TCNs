@@ -1,0 +1,303 @@
+{
+    "FIX": {
+        "F1": 0.9422193584567211,
+        "FPR": 0.20883915918752952,
+        "accuracy": 0.9144814240482291,
+        "basic_statistics": {
+            "detected": {
+                "amplitude_deg": 0.42807688200794114,
+                "count": 60439.0,
+                "duration_ms": 208.82673439335528
+            },
+            "true": {
+                "amplitude_deg": 0.6212782261706309,
+                "count": 37947.0,
+                "duration_ms": 318.90159959944134
+            }
+        },
+        "episode_adjusted_Cohens_kappa": {
+            "IoU>=0.8": {
+                "kappa": 0.6888115529549537
+            },
+            "kappa": 0.5997744138292579
+        },
+        "episode_as_Hooge_et_al": {
+            "F1": 0.7607585923318391,
+            "IoU": 0.8735187312070584,
+            "IoU>=0.5": {
+                "F1": 0.7277030618487429,
+                "IoU": 0.8988113581507146
+            }
+        },
+        "episode_as_Hoppe_et_al": {
+            "F1": 0.0,
+            "FPR": 0.46575549610329187,
+            "accuracy": 0.5342445038967082,
+            "confusion": {
+                "FIX": 0.0,
+                "NOISE": 0.0,
+                "SACCADE": 0.0,
+                "SP": 0.0
+            },
+            "confusion-accuracy": 0.0,
+            "kappa": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "sensitivity": 0.0,
+            "specificity": 0.5342445038967082
+        },
+        "episode_as_Zemblys_et_al": {
+            "IoU>=0.5": {
+                "kappa": 0.5910144986016437
+            },
+            "kappa": 0.6075549787828058
+        },
+        "kappa": 0.7779881192890526,
+        "normalised_Levenshtein": {
+            "episode": 0.3292066109645036,
+            "error_rate": 0.08551857595177088,
+            "sample": 0.085385593103208
+        },
+        "precision": 0.9240176551392266,
+        "recall": 0.9611525613751924,
+        "sensitivity": 0.9611525613751924,
+        "specificity": 0.7911608408124705
+    },
+    "NOISE": {
+        "F1": 0.7188972563526665,
+        "FPR": 0.0052764610621342115,
+        "accuracy": 0.9719139816621183,
+        "basic_statistics": {
+            "detected": {
+                "amplitude_deg": 4.090249817502801,
+                "count": 6915.0,
+                "duration_ms": 98.87172812725959
+            },
+            "true": {
+                "amplitude_deg": 8.119411251499278,
+                "count": 3447.0,
+                "duration_ms": 286.1702930084131
+            }
+        },
+        "episode_adjusted_Cohens_kappa": {
+            "IoU>=0.8": {
+                "kappa": 0.37015527296759965
+            },
+            "kappa": 0.5064560641564395
+        },
+        "episode_as_Hooge_et_al": {
+            "F1": 0.5527494520156294,
+            "IoU": 0.5951709515561843,
+            "IoU>=0.5": {
+                "F1": 0.4679310016201277,
+                "IoU": 0.5922447165473541
+            }
+        },
+        "episode_as_Hoppe_et_al": {
+            "F1": 0.0,
+            "FPR": 0.038455275095963706,
+            "accuracy": 0.9615447249040363,
+            "confusion": {
+                "FIX": 0.0,
+                "NOISE": 0.0,
+                "SACCADE": 0.0,
+                "SP": 0.0
+            },
+            "confusion-accuracy": 0.0,
+            "kappa": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "sensitivity": 0.0,
+            "specificity": 0.9615447249040363
+        },
+        "episode_as_Zemblys_et_al": {
+            "IoU>=0.5": {
+                "kappa": 0.44979811762402244
+            },
+            "kappa": 0.48527723279716095
+        },
+        "kappa": 0.7046286911274475,
+        "normalised_Levenshtein": {
+            "episode": 0.3332409833205984,
+            "error_rate": 0.028086018337881675,
+            "sample": 0.02786462786241759
+        },
+        "precision": 0.8785442761886957,
+        "recall": 0.6083494170628756,
+        "sensitivity": 0.6083494170628756,
+        "specificity": 0.9947235389378658
+    },
+    "SACCADE": {
+        "F1": 0.8958299648048764,
+        "FPR": 0.011318652674716672,
+        "accuracy": 0.9782165863527477,
+        "basic_statistics": {
+            "detected": {
+                "amplitude_deg": 6.007852483563433,
+                "count": 46195.0,
+                "duration_ms": 38.08933867301656
+            },
+            "true": {
+                "amplitude_deg": 6.842520607065762,
+                "count": 39126.0,
+                "duration_ms": 45.48512498083116
+            }
+        },
+        "episode_adjusted_Cohens_kappa": {
+            "IoU>=0.8": {
+                "kappa": 0.6918263520026167
+            },
+            "kappa": 0.8792676737047231
+        },
+        "episode_as_Hooge_et_al": {
+            "F1": 0.902940453763617,
+            "IoU": 0.8557185125400063,
+            "IoU>=0.5": {
+                "F1": 0.8804979932836432,
+                "IoU": 0.8512707415329411
+            }
+        },
+        "episode_as_Hoppe_et_al": {
+            "F1": 0.0,
+            "FPR": 0.4416773293009189,
+            "accuracy": 0.558322670699081,
+            "confusion": {
+                "FIX": 0.0,
+                "NOISE": 0.0,
+                "SACCADE": 0.0,
+                "SP": 0.0
+            },
+            "confusion-accuracy": 0.0,
+            "kappa": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "sensitivity": 0.0,
+            "specificity": 0.558322670699081
+        },
+        "episode_as_Zemblys_et_al": {
+            "IoU>=0.5": {
+                "kappa": 0.8276624666701197
+            },
+            "kappa": 0.8474809368755825
+        },
+        "kappa": 0.8836672079689859,
+        "normalised_Levenshtein": {
+            "episode": 0.3302616888240936,
+            "error_rate": 0.021783413647252375,
+            "sample": 0.02126446897178484
+        },
+        "precision": 0.9024340721006562,
+        "recall": 0.8893218143878343,
+        "sensitivity": 0.8893218143878343,
+        "specificity": 0.9886813473252833
+    },
+    "SP": {
+        "F1": 0.7384910661444591,
+        "FPR": 0.025673051572273353,
+        "accuracy": 0.9448434665970057,
+        "basic_statistics": {
+            "detected": {
+                "amplitude_deg": 0.5791130599801104,
+                "count": 19761.0,
+                "duration_ms": 86.83932999342139
+            },
+            "true": {
+                "amplitude_deg": 2.41433207667767,
+                "count": 4606.0,
+                "duration_ms": 408.4174989144594
+            }
+        },
+        "episode_adjusted_Cohens_kappa": {
+            "IoU>=0.8": {
+                "kappa": 0.18881968108579625
+            },
+            "kappa": 0.22597527879546014
+        },
+        "episode_as_Hooge_et_al": {
+            "F1": 0.3205626201087623,
+            "IoU": 0.588287678750001,
+            "IoU>=0.5": {
+                "F1": 0.25178885390685696,
+                "IoU": 0.6029336661130413
+            }
+        },
+        "episode_as_Hoppe_et_al": {
+            "F1": 0.0,
+            "FPR": 0.05184366639525416,
+            "accuracy": 0.9481563336047458,
+            "confusion": {
+                "FIX": 0.0,
+                "NOISE": 0.0,
+                "SACCADE": 0.0,
+                "SP": 0.0
+            },
+            "confusion-accuracy": 0.0,
+            "kappa": 0.0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "sensitivity": 0.0,
+            "specificity": 0.9481563336047458
+        },
+        "episode_as_Zemblys_et_al": {
+            "IoU>=0.5": {
+                "kappa": 0.21071813447163934
+            },
+            "kappa": 0.2334693954203384
+        },
+        "kappa": 0.7077310136700109,
+        "normalised_Levenshtein": {
+            "episode": 0.33108592951105126,
+            "error_rate": 0.05515653340299431,
+            "sample": 0.055348464065767135
+        },
+        "precision": 0.773201328023691,
+        "recall": 0.7067633144675369,
+        "sensitivity": 0.7067633144675369,
+        "specificity": 0.9743269484277266
+    },
+    "all": {
+        "F1": 0.9499811604551692,
+        "FPR": 1.0,
+        "accuracy": 0.9047277293300504,
+        "basic_statistics": {
+            "detected": {
+                "samples_amount": {
+                    "FIX": 0.75460531313165,
+                    "NOISE": 0.04087881213212612,
+                    "SACCADE": 0.10379184521923755,
+                    "SP": 0.10072402951698635
+                }
+            },
+            "true": {
+                "samples_amount": {
+                    "FIX": 0.7254505268111391,
+                    "NOISE": 0.059034899037900386,
+                    "SACCADE": 0.10532216349208996,
+                    "SP": 0.11019241065887056
+                }
+            }
+        },
+        "episode_adjusted_Cohens_kappa": {
+            "IoU>=0.8": {
+                "kappa": 0.627062474916102
+            },
+            "kappa": 0.679144462899204
+        },
+        "episode_as_Zemblys_et_al": {
+            "IoU>=0.5": {
+                "kappa": 0.44385263783274453
+            },
+            "kappa": 0.47744394861660544
+        },
+        "kappa": 0.0,
+        "normalised_Levenshtein": {
+            "episode": 0.3414592283059626,
+            "error_rate": 0.09527227066994963,
+            "sample": 0.0952396273662171
+        },
+        "precision": 0.9047277293300504,
+        "recall": 1.0,
+        "sensitivity": 1.0,
+        "specificity": 0.0
+    }
+}
